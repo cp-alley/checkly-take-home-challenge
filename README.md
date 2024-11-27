@@ -9,13 +9,13 @@ Follow these steps to set up and use this repository:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/cp-alley/checkly-take-home-challenge.git
 ```
 
 ### 2. Install dependencies
 
 ```
+cd checkly-take-home-challenge
 npm install
 ```
 
